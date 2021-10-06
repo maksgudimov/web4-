@@ -52,6 +52,9 @@ a{
     font-weight: 700;
     color: #000;
 }
+.menu{
+    padding-left: 0;
+}
 .menu li{
     background-color:rgb(255, 112, 77,0.7) ;
     width: 100%;
